@@ -1,6 +1,6 @@
-package com.example.StudentSystem.Controller;
+package com.example.StudentSystem.controller;
 
-import com.example.StudentSystem.Entity.Student;
+import com.example.StudentSystem.entity.Student;
 import com.example.StudentSystem.repository.StudentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

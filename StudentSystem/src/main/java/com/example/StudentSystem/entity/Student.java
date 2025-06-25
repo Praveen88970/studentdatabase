@@ -1,4 +1,4 @@
-package com.example.StudentSystem.Entity;
+package com.example.StudentSystem.entity;
 
 import jakarta.persistence.*;
 
@@ -21,8 +21,7 @@ public class Student {
         this.branch = branch;
     }
 
-    // Getters and Setters
-
+    // Getters & Setters
     public int getRollNo() {
         return rollNo;
     }
